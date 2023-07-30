@@ -1,1 +1,8 @@
+spring:
+  application:
+    name: Crudify
+    version: 0.0.1
+    author: Pedro Carara
+    email: cararax@gmail.com
+
 
